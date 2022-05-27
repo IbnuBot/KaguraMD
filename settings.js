@@ -10,11 +10,11 @@ global.APIKeys = {
 }
 
 //---------( SETTING )---------//
-global.owner = ['6282279915237','6285789004732','6285724706876']
-global.premium = ['6282279915237']
-global.ownernomer = '6282279915237'
-global.ownername = 'Lexxy Official'
-global.botname = 'KaguraMD'
+global.owner = ['6285158621566','6285789004732','62895338690940']
+global.premium = ['6285158621566']
+global.ownernomer = '6285158621566'
+global.ownername = 'Ibnu Official'
+global.botname = 'IbnuMD'
 global.footer = 'Lexxy Official'
 global.thumb = fs.readFileSync('./image/fake.jpg')
 global.veloriy = fs.readFileSync('./image/kagura.mp4')
@@ -24,11 +24,11 @@ global.author = '2022'
 global.sp = '⭔'
 
 //---------( INFO )---------//
-global.youtube = 'https://youtube.com/c/LEX4YOUU'
-global.ig = 'https://instagram.com/Lexxy24'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://github.com/Lexxy24'
-global.email = 'pebrikito0@gmail.com'
+global.youtube = 'https://youtube.com/c/Ibnu Official'
+global.ig = 'https://instagram.com/ibnuopbrrww'
+global.mygc = 'https://chat.whatsapp.com/LoRn7jgdN5N0w1e6LQxiee'
+global.myweb = 'https://github.com/IbnuBot'
+global.email = 'ibnuhilal746@gmail.com'
 global.region = 'indonesia'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.BgWelcLeav = 'https://telegra.ph/file/ca207893ae26d531cd9c6.jpg'
