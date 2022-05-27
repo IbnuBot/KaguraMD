@@ -15,11 +15,11 @@ global.premium = ['6285158621566']
 global.ownernomer = '6285158621566'
 global.ownername = 'Ibnu Official'
 global.botname = 'IbnuMD'
-global.footer = 'Lexxy Official'
+global.footer = 'Ibnu Official'
 global.thumb = fs.readFileSync('./image/fake.jpg')
 global.veloriy = fs.readFileSync('./image/kagura.mp4')
 global.sessionName = 'session'
-global.packname = '© BotWa'
+global.packname = '© IbnuMD'
 global.author = '2022'
 global.sp = '⭔'
 
